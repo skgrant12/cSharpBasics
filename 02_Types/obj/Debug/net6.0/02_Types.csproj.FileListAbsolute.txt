@@ -1,0 +1,15 @@
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net6.0\02_Types.exe
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net6.0\02_Types.deps.json
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net6.0\02_Types.runtimeconfig.json
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net6.0\02_Types.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net6.0\ref\02_Types.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net6.0\02_Types.pdb
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.csproj.AssemblyReference.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.AssemblyInfoInputs.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.AssemblyInfo.cs
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.csproj.CoreCompileInputs.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net6.0\ref\02_Types.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.pdb
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.genruntimeconfig.cache
