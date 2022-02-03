@@ -59,3 +59,18 @@ else
 {
     Console.WriteLine("I don't know what we are even talking about.");
 }
+
+// Challenge 
+
+bool hasUmbrella = true;
+bool isStayingInside = false;
+
+if(hasUmbrella && !isStayingInside)
+{
+    Console.WriteLine("Good thing I have my umbrella so I can go outside while It's raining!");
+}
+
+if(!hasUmbrella && !isStayingInside)
+{
+    Console.WriteLine("I'd better go get my umbrella so I don't get wet!!");
+}

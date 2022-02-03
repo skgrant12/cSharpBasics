@@ -16,6 +16,7 @@ switch (feelingRating)
 {
     case "5":
         Console.WriteLine("That's great to hear!");
+        //Break means the console will stop running
         break;
     case "4":
         Console.WriteLine("Good stuff!");
@@ -33,4 +34,6 @@ switch (feelingRating)
         Console.WriteLine("Sorry, we don't understand. Please try again later.");
         break;
 }
+
+//If there are more than 8 possible answers to a question, go for an if statement instead of a switch.
 
