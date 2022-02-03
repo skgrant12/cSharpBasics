@@ -1,0 +1,15 @@
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\Switches.exe
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\Switches.deps.json
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\Switches.runtimeconfig.json
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\Switches.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\ref\Switches.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\Switches.pdb
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.csproj.AssemblyReference.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.AssemblyInfoInputs.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.AssemblyInfo.cs
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.csproj.CoreCompileInputs.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\ref\Switches.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.pdb
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.genruntimeconfig.cache
