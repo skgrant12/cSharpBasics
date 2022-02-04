@@ -1,4 +1,4 @@
 ﻿string firstName = "Sarah";
 Console.WriteLine(firstName);
 
-Console.WriteLine()
+Console.WriteLine();

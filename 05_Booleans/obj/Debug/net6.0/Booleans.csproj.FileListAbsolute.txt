@@ -1,0 +1,15 @@
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net6.0\Booleans.exe
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net6.0\Booleans.deps.json
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net6.0\Booleans.runtimeconfig.json
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net6.0\Booleans.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net6.0\ref\Booleans.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net6.0\Booleans.pdb
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.csproj.AssemblyReference.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.AssemblyInfoInputs.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.AssemblyInfo.cs
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.csproj.CoreCompileInputs.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net6.0\ref\Booleans.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.pdb
+C:\Users\sgran\Documents\CF127FT\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.genruntimeconfig.cache

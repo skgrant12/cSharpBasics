@@ -9,3 +9,17 @@ int age = int.Parse(response);
 string output = age >= 18 ? "You can vote!" : "You're too young to vote!";
 Console.WriteLine(output);
 
+// Ternary expression as an if else statement
+
+if (age>= 18)
+{
+    output = "You can vote!";
+}
+
+else
+{
+    output = "You're too young to vote." ;
+}
+
+Console.WriteLine(output);
+

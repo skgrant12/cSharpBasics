@@ -23,7 +23,6 @@ if (!isSnowing || !isGoingOutside)
     Console.WriteLine("I do not need any boots.");
 }
 
-// The ^ operator computes the logical exclusive OR, aka logical XOR, of its operands. The result of x ^ y is true if x evaluates to true and y evaluates to false, or x evaluates to false and y evaluates to true. Otherwise, the result is false. 
 // ^ runs each side of the statement exclusively.
 if (isSnowing ^ isGoingOutside)
 {
@@ -74,3 +73,4 @@ if(!hasUmbrella && !isStayingInside)
 {
     Console.WriteLine("I'd better go get my umbrella so I don't get wet!!");
 }
+
